@@ -1,0 +1,150 @@
+# Verification Privacy Policy
+
+**Last Updated:** July 26, 2026
+
+## 1. Introduction
+
+This Privacy Policy explains how **Verification** ("the Bot," "we," "our," or "us") collects, uses, stores, and protects information when you use the Bot.
+
+By using Verification, you agree to the practices described in this Privacy Policy.
+
+---
+
+## 2. Information We Collect
+
+Verification only collects information necessary to provide its services.
+
+This may include:
+
+### Server Information
+
+* Discord Server (Guild) ID
+* Server configuration settings
+* Verification configuration
+* Role IDs
+* Channel IDs
+
+### User Information
+
+* Discord User ID
+* Verification status
+* Timestamps related to verification
+* Bot interaction data required for commands
+
+### Technical Information
+
+* Error logs
+* Diagnostic information
+* Usage statistics used to improve the Bot
+* API request logs when necessary for debugging
+
+Verification does **not** collect:
+
+* Discord passwords
+* Email addresses
+* Payment information
+* Private Discord messages unless they are intentionally sent to the Bot through commands or interactions
+* Any information unrelated to the Bot's functionality
+
+---
+
+## 3. How We Use Your Information
+
+We use collected information to:
+
+* Provide verification services.
+* Store server configuration.
+* Assign verification roles.
+* Improve reliability and performance.
+* Diagnose bugs and technical issues.
+* Prevent abuse or malicious activity.
+* Comply with applicable legal obligations.
+
+We do **not** sell your personal information.
+
+---
+
+## 4. Data Storage
+
+Collected data is stored only for as long as necessary to operate Verification.
+
+When data is no longer needed, it may be securely deleted.
+
+---
+
+## 5. Data Sharing
+
+We do not sell, rent, or trade user information.
+
+Information may only be shared:
+
+* When required by law.
+* To protect the security of Verification.
+* To prevent fraud, abuse, or illegal activity.
+* With trusted infrastructure providers that help operate the Bot, where applicable.
+
+---
+
+## 6. Data Security
+
+We take reasonable measures to protect stored information against unauthorized access, loss, misuse, or disclosure.
+
+While we strive to protect your information, no online service can guarantee absolute security.
+
+---
+
+## 7. Third-Party Services
+
+Verification operates through Discord and may rely on third-party infrastructure providers (such as hosting providers or databases).
+
+Your use of Discord is also subject to Discord's own Terms of Service and Privacy Policy.
+
+---
+
+## 8. Data Retention
+
+Verification retains data only as long as necessary to:
+
+* Provide Bot functionality.
+* Maintain server settings.
+* Resolve technical issues.
+* Meet legal obligations.
+
+Server owners may request deletion of their server's stored configuration after removing the Bot, subject to operational limitations.
+
+---
+
+## 9. Your Rights
+
+Depending on your jurisdiction, you may have the right to:
+
+* Request access to stored information.
+* Request correction of inaccurate information.
+* Request deletion of eligible stored data.
+* Request information about what data is collected.
+
+Requests may be made through the official Verification support server.
+
+---
+
+## 10. Children's Privacy
+
+Verification is not directed toward children under the minimum age required to use Discord under applicable law. We do not knowingly collect personal information from users who are not permitted to use Discord.
+
+---
+
+## 11. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+Changes become effective once the updated version is published. Continued use of Verification after changes constitutes acceptance of the revised Privacy Policy.
+
+---
+
+## 12. Contact
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact the Verification support team through the official support server or another contact method provided by the developers.
+
+---
+
+**By using Verification, you acknowledge that you have read and understood this Privacy Policy.**
